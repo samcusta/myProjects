@@ -1,0 +1,256 @@
+*{padding: 0; margin: 0px;}/* *default browser padding */ 
+
+/* Start Navigation Section */
+.nav{height: 50px; width: 100%; background-color:black; display: flex;}
+.nav .list{list-style: none; width: 100%; justify-content: center; display: flex; padding: 18px;}
+.nav .list li a{text-decoration: none; color: white; margin: 30px;}
+/* End Navigation Section */
+
+/* Start sec Section */
+.sec{width:100%;text-align: center;font-family: sans-serif; font-size: 8px; display:flex; justify-content: space-evenly;}
+.sec .e1{padding-top: 30px;width: 4%;}
+.sec .e2{padding-top: 15px;width: 3%;}
+.sec .e3{width:3%;padding-bottom: 20px;}
+.sec .e4{padding-top: 15px;width: 3%;}
+.sec .e5{padding-top: 40px;width: 5%;}
+.sec .e6{padding-top: 5px;width: 4%;}
+.sec .e7{padding-top: 40px;}
+.sec .e8{padding-top: 30px;width: 4%;}
+.sec .e9{padding-top: 40px;width: 3%;}
+.sec .e3 .e33{font-size: 7px; color: red;}
+/* End sec Section */
+
+/* Start sec1 Section */
+.sec1{background-color: rgb(250, 244, 244); padding-top: 5px; font-size: 10px; height: 20px; text-align: center;}
+.sec1 p a{text-decoration: none;}
+/* End sec1 Section */
+
+/* Start sec2 Section */
+.sec2{width: 100%;padding-top: 90px; display: flex; justify-content: center;text-align: center;font-family: sans-serif;}
+.sec2 .s1{width:30%;padding-top: 60px;margin-left: 80px; text-align: left;}
+.sec2 .s1 .ss1{color: red; padding-bottom: 15px;font-size: 15px;}
+.sec2 .s1 .ss2{font-weight: bold;font-size: 30px; padding-bottom: 15px;}
+.sec2 .s1 .ss3{font-weight: bold; font-size: 50px;}
+.sec2 .s1 .ss4{padding-top: 15px;font-weight: bold;font-size: 30px;}
+.sec2 .s1 .ss5{padding-top: 20px;}
+.sec2 .s1 .ss6 a{text-decoration: none;color: blue; border-radius: 10px;}
+.sec2 .s1 .ss7 a{text-decoration: none; padding-top: 20px;}
+.sec2 .s2{width:55%;height: 500px;background-image: url('/img/section1.jpg'); background-repeat: no-repeat;}
+
+/* End sec2 Section */
+
+/* Start sec3 Section */
+.sec3{width: 100%;padding-top: 100px;display: flex; justify-content: center; text-align: center;font-family: sans-serif;}
+.sec3 .s3{width: 50%;height: 500px;margin-left: 60px; background-image: url('/img/section2.jpg');background-repeat:no-repeat;}
+.sec3 .s4{width:50%;padding-top: 60px;text-align: left;}
+.sec3 .s4 .sss1{font-weight: bold;font-size: 30px;padding-bottom: 15px;}
+.sec3 .s4 .sss2{font-weight: bold; font-size: 50px;}
+.sec3 .s4 .sss3{padding-top: 15px;}
+.sec3 .s4 .sss4 a{text-decoration: none;color: blue;border-radius: 10px;}
+.sec3 .s4 .sss5 a{text-decoration: none; font-size: 15px; padding-top: 20px;}
+/* End sec3 Section */
+
+/* Start sec4 Section */
+.sec4{width: 100%;padding-top: 100px; display: flex; justify-content: center;font-family: sans-serif;}
+.sec4 .s5{width:30%;padding-top: 60px;margin-left: 80px; text-align: left;}
+.sec4 .s5 .ssss1{font-weight: bold;font-size: 30px; padding-bottom: 15px;}
+.sec4 .s5 .ssss2{font-weight: bold; font-size: 50px;}
+.sec4 .s5 .ssss3{padding-top: 10px;}
+.sec4 .s5 .ssss4 a{text-decoration: none;color: blue;border-radius: 10px;}
+.sec4 .s5 .ssss5 a{text-decoration: none; font-size: 15px;}
+.sec4 .s6{width:55%;height: 500px;background-image: url('/img/section3.jpg'); background-repeat: no-repeat;}
+
+/* End sec4 Section */
+
+/* Start sec5 Section */
+.sec5{width:100%;font-family: sans-serif;  text-align: center;padding-top: 150px;}
+.sec5 .s7{font-weight: bold; text-align: center; font-size: 40px;}
+.sec5 .s8 a{text-decoration: none;color: blue;font-size: 20px;}
+/* End sec5 Section */
+
+/* Start sec6 9 Section */
+.sec6{width: 100%;display: flex;font-family: sans-serif; justify-content: space-evenly;text-align: left; padding-top: 100px;}
+.sec6 .s9 .sssss2{padding-top: 15px;font-weight: bold;}
+.sec6 .s9 .sssss3{padding-top: 10px;}
+.sec6 .s9 .sssss4 a{text-decoration: none;color: blue; border-radius: 10px;}
+.sec6 .s9 .sssss5 a{text-decoration: none;color: blue;}
+/* End sec6 9 Section */
+
+/* Start sec6 10 Section */
+.sec6 .s10 .ssssss2{padding-top: 15px;font-weight: bold;}
+.sec6 .s10 .ssssss3{padding-top: 10px;}
+.sec6 .s10 .ssssss4 a{text-decoration: none;color: blue; border-radius: 10px;}
+.sec6 .s10 .ssssss5 a{text-decoration: none;color: blue;}
+/* End sec6 10 Section */
+
+/* Start sec6 11 Section */
+.sec6 .s11 .sssssss2{padding-top: 15px;font-weight: bold;}
+.sec6 .s11 .sssssss3{padding-top: 10px;}
+.sec6 .s11 .sssssss4 a{text-decoration: none;color: blue; border-radius: 10px;}
+.sec6 .s11 .sssssss5 a{text-decoration: none;color: blue;}
+/* End sec6 11 Section */
+
+/* Start sec6 12 Section */
+.sec6 .s12 .ssssssss2{padding-top: 15px;font-weight: bold;}
+.sec6 .s12 .ssssssss3{padding-top: 10px;}
+.sec6 .s12 .ssssssss4 a{text-decoration: none;color: blue; border-radius: 10px;}
+.sec6 .s12 .ssssssss5 a{text-decoration: none;color: blue;}
+/* End sec6 12 Section */
+
+/* Start sec7 Section */
+.sec7{width: 100%;padding-top: 50px; text-align: center;font-family: sans-serif; display: flex; justify-content: center; border-width: 20px; border-style: solid; border-color: black}
+.sec7 .s13{width:60%;height: 500px;background-image: url('/img/sec5.jpg'); background-repeat: no-repeat;}
+.sec7 .s14 .sssssssss1{ font-weight: bold; font-size: 50px; padding-top: 15%;}
+.sec7 .s14 .sssssssss2{padding-top: 10px;}
+.sec7 .s14 .sssssssss3 a{color: blue; text-decoration: none;}
+/* End sec7 Section */
+
+
+/* Start sec8 Section */
+.sec8{font-family: sans-serif; width: 100%; display:flex; justify-content:center;text-align: center;}
+.sec8 .s15{width: 100%;border-width: 10px;border-color: black;border-style: solid;}
+.sec8 .s16{width: 100%;border-width: 10px;border-color: black;border-style: solid;}
+/* End secec8 Section */
+
+/* Start sec9 Section */
+.sec9{width:100%; text-align: center;font-family: sans-serif;text-align: center;}
+.sec9 .s17{ padding-top: 50px;font-weight: bold;font-size: 20px;}
+.sec9 .s19 a{ font-size: 13px;color: blue;text-decoration: none; font-family: sans-serif;}
+.sec9 .s19 .a1{font-weight: bold; font-size: 50px; padding-bottom: 20px;}
+/* End secec9 Section */
+
+/* Start sec10 Section */
+.sec10{width: 100%;padding-top: 100px;border:black;border-style:solid;border-width: 10px;font-family: sans-serif;display: flex; justify-content: center;text-align: center;}
+.sec10 .s20{width: 40%;padding-top: 50px;}
+.sec10 .s20 .w{font-size: 30px; font-weight: bold;}
+.sec10 .s20 .c a{text-decoration: none; color: blue;}
+.sec10 .s21{width:60%;height: 300px;;background-image: url('/img/sec7.jpg'); background-repeat: no-repeat;}
+/* End secec10 Section */
+
+/* Start sec11 Section */
+.sec11{widows: 100%;font-family: sans-serif;height: 500px; width: 100%;display: flex; justify-content:center;text-align: center;}
+.sec11 .b{width:50%;padding-top: 70px;border: black;border-style: solid;border-width: 10px;}
+.sec11 .c{width:50%;padding-top: 70px;border: black;border-style: solid;border-width: 10px;}
+.sec11 .d{width:50%;padding-top: 70px;border: black;border-style: solid;border-width: 10px;}
+.sec11 .b .b1 a{color: blue;text-decoration: none;}
+.sec11 .c .c1{color: red;font-size: 10px;}
+.sec11 .c .c2 a{color: blue;text-decoration: none;}
+.sec11 .d .d1 a{color: blue;text-decoration: none;}
+/* End secec11 Section */
+
+/* Start sec12  Section */
+.sec12 {width:100;height:50px;text-align: center;font-family: sans-serif;font-size: 20px; padding-top: 30px;}
+.sec12 a{text-decoration: none;}
+/* End secec12  Section */
+
+/* Start sec13  Section */
+.sec13{width:100%;height: 500px; display: flex; justify-content: center;font-family: sans-serif;}
+.sec13 .s22{width:60%;background-image:url('/img/sec9.jpg');background-repeat: no-repeat;}
+.sec13 .s23{width: 30%;padding-top:150px;text-align: center; text-decoration: none;}
+.sec13 .s23 a{text-decoration: none; color: blue;}
+/* End secec13  Section */
+
+/* Start sec14  Section */
+.sec14{width:100%;font-family: sans-serif;display: flex; justify-content: center;text-align: center;}
+.sec14 .s24 {padding-top: 50px;margin-right: 100px;}
+.sec14 .s25{padding-top: 50px;}
+.sec14 .s24 p a{text-decoration: none; color: blue;}
+.sec14 .s25 p a{text-decoration: none; color: blue;}
+/* End secec14  Section */
+
+/* Start sec15  Section */
+.sec15{width:100%;padding-top: 100px;text-align: center;font-family: sans-serif;font-weight: bold;font-size: 50px;}
+/* End secec15  Section */
+
+/* Start sec16  Section */
+.sec16{width: 100%;height: 500px;text-align: center; display: flex; justify-content: center; font-family: sans-serif;}
+.sec16 .s26{width: 40%;padding-top: 150px;}
+.sec16 .s26 a{text-decoration: none; color: blue;}
+.sec16 .s27{width:50%;background-image: url('/img/sec11.jpg');background-repeat:no-repeat ;}
+/* End secec16  Section */
+
+/* Start sec17  Section */
+.sec17{width: 100%;padding-top: 50px; text-align: center; display: flex; justify-content: center; font-family: sans-serif;}
+.sec17 .s26{width:50%;border-style:solid;border-color: black;border-width: 10px;background-color: black; text-align: center;}
+.sec17 .s26 p{font-family: sans-serif; color: white;}
+.sec17 .s26 a{text-decoration: none; color: blue;}
+.sec17 .s27{width:50%;border-style:solid;border-color: black;border-width: 10px;background-color: black;}
+.sec17 .s27 a{text-decoration: none; color:blue}
+/* End secec17  Section */
+
+/* Start sec18  Section */
+.sec18{width: 100%;height: 500px; border-width: 20px; border-style: solid; border-color: white; background-color: black ;text-align: center; display: flex; justify-content: center; font-family: sans-serif;}
+.sec18 .s28{text-align: center; padding-top: 200px;}
+.sec18 .s28 p{color:white}
+.sec18 .s29{margin-left: 200px;padding-top: 50px;}
+.sec18 .s28 a{text-decoration: none; color: blue;}
+/* End secec18  Section */
+
+/* Start sec19  Section */
+.sec19{width: 100%;height: 700px;border-style:solid;border-width: 5px;border-color:white;display: flex;background-color: black;text-align: center; display: flex; justify-content:space-evenly; font-family: sans-serif;}
+.sec19 .s30{width:50%;border-style:solid;border-width: 10px;border-color:white;background-image: url('/img/sec14.jpg');background-repeat: no-repeat;}
+.sec19 .s30 .f2 p{color: white;padding-top: 500px;}
+.sec19 .s30 .f2 a{text-decoration: none;color: blue;}
+.sec19 .s31{width:50%;padding-top: 60px;border-style:solid;border-width: 10px;border-color:white;background-image: url('/img/sec141.jpg'); background-repeat: no-repeat;}
+.sec19 .s31 p{color: white;} 
+.sec19 .s31 a{text-decoration: none;color: blue;}
+/* End secec19  Section */
+
+/* Start sec20  Section */
+.sec20{padding-bottom: 40px;width:100%; text-align: center; font-family: sans-serif; font-weight: bold; font-size: 50px; padding-top: 80px;background-color: rgb(248, 238, 238);}
+/* End secec20  Section */
+
+/* Start sec21  Section */
+.sec21{width: 100%;height: 500px;text-align: center; display: flex; justify-content: center; font-family: sans-serif;}
+.sec21 .s33{width:50%;background-position: center;background-image: url('/img/sec15.jpg');background-repeat: no-repeat;}
+.sec21 .s34{width: 50%;padding-top: 80px;}
+ a{text-decoration: none; color: blue;}
+/* End secec21  Section */
+
+/* Start sec22 Section */
+.sec22{width: 100%;height:600px;border-style:solid;border-width: 5px;border-color:white;text-align: center; display: flex; justify-content: center; font-family: sans-serif;}
+.sec22 .s35{width: 50%;border-style:solid;border-width: 10px;border-color:white;padding-top: 50px;background-image: url('/img/sec16.jpg');background-repeat: no-repeat;background-position: bottom;background-color: black; color: white;}
+.sec22 .s35 a{text-decoration: none; color: blue;}
+.sec22 .s36{width:50%;padding-top: 50px;border-style:solid;border-width: 10px;border-color: white;background-image: url('/img/sec161.jpg');background-repeat: no-repeat;background-position: bottom;}
+.sec22 .s36 a{text-decoration: none; color: blue;}
+/* End secec22  Section */
+
+/* Start sec23 Section */
+.sec23{width: 100%;height:600px;color:white;text-align: center;border-style:solid;border-width: 5px;border-color:white; display: flex; justify-content: center; font-family: sans-serif;}
+.sec23 .s37{width:50%;padding-top: 50px;background-image: url('/img/sec17.jpg');border-style:solid;border-width: 10px;border-color: white;}
+.sec23 .s37 a{text-decoration: none;color: white;}
+.sec23 .s38{width:50%;padding-top: 50px;background-image: url('/img/sec171.jpg');border-style:solid;border-width: 10px;border-color: white;}
+.sec23 .s38 a{text-decoration: none; color:white;}
+/* End secec23  Section */
+
+/* Start sec24 Section */
+.sec24{width:100%;height:600px;border-style:solid;border-width:5px;border-color:white;font-family: sans-serif;text-align: center; display: flex; justify-content: center;}
+.sec24 .s39{width:50%;padding-top:50px;background-image: url('/img/sec18.jpg');background-repeat:no-repeat;background-position:center;border-style:solid;border-width: 10px;border-color: white;}
+.sec24 .s39 a{text-decoration: none; color: blue;}
+.sec24 .s40{width:50%;padding-top: 50px;background-image: url('/img/sec181.jpg');background-repeat:no-repeat;background-position: bottom;border-style:solid;border-width: 10px;border-color: white;}
+.sec24 .s40 a{text-decoration: none; color: blue;}
+/* End secec24  Section */
+
+/* Start sec25 Section */
+.sec25{width: 100%;text-align: center;display: flex; justify-content: center; font-family: sans-serif;}
+.sec25 .s41{width:50%;padding-top: 100px;}
+.sec25 .s41 a{text-decoration: none; color:blue;}
+.sec25 .s42{width:50%;background-image: url('/img/sec19.jpg');background-repeat: no-repeat ;}
+/* End secec25  Section */
+
+/* Start sec26 Section */
+.sec26{width:100%; display: flex;justify-content: center; padding-top: 30px;font-family: sans-serif;text-align: left; font-size: 12px;}
+.sec26 .p1{width:20%}
+.sec26 .p2{width: 70%;}
+.sec26 .p3{width: 20%;}
+.sec26 .p2 .p23{list-style: none;}
+/* End secec26  Section */
+
+/* Start Section 9*/
+.sec27{width: 100%;font-family: sans-serif; justify-content: center;background-color: #fbfbfd; text-align: center; display: flex;padding-top: 15px;}
+/* End Section 9*/
+
+/* Start Section footer*/
+.footer{width:100%;height:50px; font-size: 10px; background-color: rgb(236, 234, 231); text-align: center;}
+.footer p{color: rgb(83, 81, 81); padding-top: 5px;}
+/* End Section footer*/

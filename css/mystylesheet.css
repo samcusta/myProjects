@@ -1,0 +1,90 @@
+*{padding: 0; margin: 0px;}/* *default browser padding */ 
+
+/* Start Navigation Section */
+.nav{height: 50px; width: 100%;border-width: 10px;background-color: #323232; display: flex;}
+.nav .list{list-style: none; width: 100%; justify-content: center; display: flex; padding: 18px;}
+.nav .list li a{text-decoration: none; color: white; margin: 30px;}
+/* End Navigation Section */
+
+/* Start Section */
+.sec{width: 100%;border-width: 10px;background-color: rgb(60, 132, 240);height: 30px; text-align: center; padding-top: 15px;}
+.sec a{text-decoration: none; color: white; font-family: sans-serif; font-size: 15px;} 
+/* End Section */
+
+/* Start Section 1*/
+.sec1{width: 100%; height: 30px;background-color: rgb(255, 249, 249); text-align: center; padding-top: 15px;} 
+.sec1 a{ text-decoration: none; color: rgb(90, 89, 89); font-family: sans-serif;  font-size: 15px;}
+/* End section 1*/
+
+/* Start Section 2*/
+.sec2{width: 100%;background-color: black; background-image: url('/img/img1.jpg');  height: 600px; background-size: 100; 
+    background-repeat: no-repeat; background-position: bottom;}
+.sec2 .s1{font-size: 40px; font-family: sans-serif; display: flex; justify-content: center; color: white; padding-top: 20px;}
+.sec2 .s1 img{height: 60px;}
+.sec2 .s2{color: red; text-align: center; font-family: sans-serif;}
+.sec2 .s3{color: white; text-align: center; font-family: sans-serif; font-size: 25px;}
+.sec2 .s4 .list1{font-family: sans-serif; list-style: none; display: flex; justify-content: center; padding-top: 15px;}
+.sec2 .s4 .list1 li a{text-decoration: none; padding-left: 30px; color:blue;}
+.sec2 .s5{text-align: center; background-color: black; width:100%; padding-top: 30px;}
+/* End Section 2*/
+
+/* Start Section 3*/
+.sec3{width:100%;border-top: solid; border-color: white; border-width: 10px;background-color: #fbfbfd; background-image: url('/img/img2.jpg'); background-position: center;height: 600px;background-repeat: no-repeat;}
+.sec3 .s6{color: red; font-family: sans-serif; font-size: 10px; text-align: center;padding-top: 30px;}
+.sec3 .s7{color: black; text-align: center; font-family: sans-serif; font-size: 40px;}
+.sec3 .s8{color: black; font-family: sans-serif; text-align: center;}
+.sec3 .s9 .list2{font-family: sans-serif; list-style: none;display: flex; justify-content: center; padding-top: 10px;}
+.sec3 .s9 .list2 li a{text-decoration: none; padding-left:30px; color:blue; font-size: 13px;}
+
+
+/* Start Section 4*/
+.sec4{width:100%;border-top: solid; border-color: white; border-width: 10px; background-image: url('/img/img3.jpg');background-color:#fbfbfd; height:700px; background-position: center; background-repeat: no-repeat;}
+.sec4 .s11{font-size:30px; font-family: sans-serif; display:flex; color: black; justify-content: center;padding-top: 20px;}
+.sec4 .s11 img{height: 50px;}
+.sec4 .s12{color: rgb(218, 55, 55); font-size: 10px;text-align: center; font-family: sans-serif;}
+.sec4 .s13{color: black; font-family: sans-serif;text-align: center; padding-top: 10px;}
+.sec4 .s14 .list3{font-family: sans-serif; list-style: none; display: flex; justify-content: center; padding-top: 10px;}
+.sec4 .s14 .list3 li a{text-decoration: none; color: blue; padding-left: 30px; font-size: 13px;}
+/* End Section 4*/
+
+/* Start Section 5*/
+.sec5{width: 100%;border-top: solid; border-color: white; border-width: 10px; display: flex; background-color: #fbfbfd; justify-content: center; text-align: center; font-family: sans-serif;}
+.sec5 .s16{width:50%;border-right: solid;border-width: 10px;border-color: white;background-image: url('/img/img4.jpg');background-position: bottom;background-repeat: no-repeat;height:500px;padding-top: 20px;}
+.sec5 .s17{width:50%;background-image: url('/img/img5.jpg');background-position: center;background-repeat: no-repeat;height:500px;padding-top: 20px;}
+.sec5 .s16 img{height: 50px; padding-top: 10px;}
+.sec5 .s17 img{height: 50px;padding-top: 10px;} 
+.sec5 .s16  a{text-decoration: none; color: blue; font-size: 13px;}
+.sec5 .s17  a{text-decoration: none; color: blue; font-size: 13px;}
+/* End Section 5*/
+
+/* Start Section 6*/
+.sec6{width: 100%; border-top: solid; border-color: white; border-width: 10px;display: flex;background-color: #fbfbfd;justify-content: center; text-align: center; font-family: sans-serif;}
+.sec6 .s18{width:50%;border-right: solid;border-width: 10px;border-color: white; background-image: url('/img/img6.jpg');background-repeat: no-repeat;background-position: top;padding-top:350px;}
+.sec6 .s19{width:50%;background-color: #f0f0f2; background-image: url('/img/img7.jpg');background-repeat: no-repeat;background-position: bottom;padding-top: 20px;height: 500px;}
+.sec6 .s18 .list1{font-family: sans-serif; list-style: none; display: flex; justify-content: center;font-size: 13px;}
+.sec6 .s18 .list1 li a{text-decoration: none;padding-left: 30px; color:blue}
+.sec6 .s19 p a{text-decoration: none; color: blue;font-family: sans-serif;font-size: 13px;}
+/* End Section 6*/
+
+/* Start Section 7*/
+.sec7{ width: 100%;border-top: solid; border-color: white; border-width: 10px; display:flex; justify-content: content; height: 500px; font-family: sans-serif; text-align: center; color: white;}
+.sec7 .s20{width: 50%;border-right: solid;border-width: 10px;border-color: white; background-image: url('/img/img8.jpg'); background-position: center; background-size: cover;padding-top: 320px;}
+.sec7 .s21{width: 50%;background-image: url('/img/img9.jpg'); background-size: contain; background-position: center; background-size: cover;}
+.sec7 .s20 .list3{font-family: sans-serif; list-style: none; display: flex; justify-content: center;font-size: 13px;}
+.sec7 .s20 .list3 li a{text-decoration: none;padding-left: 30px; color:blue}
+.sec7 .s21 a{color: blue; text-decoration: none;}
+/* End Section 7*/
+
+/* Start Section 8*/
+.sec8 li{width: 50%; justify-content: center; margin-left: 300px;list-style: none;border-top: solid; border-color: white; border-width: 10px;padding-top: 15px;}
+/* End Section 8*/
+
+/* Start Section 9*/
+.sec9{width: 100%;font-family: sans-serif; justify-content: center;background-color: #fbfbfd; text-align: center; display: flex;padding-top: 15px;}
+/* End Section 9*/
+
+/* Start Section footer*/
+.footer{width:100%;height:50px; font-size: 10px; background-color: rgb(236, 234, 231); text-align: center;background-color: #fbfbfd}
+.footer a{text-decoration: none;color: blue;}
+.footer p{color: rgb(83, 81, 81); padding-top: 5px;}
+/* End Section footer*/
